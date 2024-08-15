@@ -11,7 +11,7 @@ threshold = 70
 ##########
 
 # Upload a video
-cap = cv2.VideoCapture("PoseVideos/bev4.MOV")
+cap = cv2.VideoCapture("DanceVideos/bev4.MOV")
 
 # Capture a live video from a camera ("0" most likely indicates a default built-in camera)
 # cap = cv2.VideoCapture(0)

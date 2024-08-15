@@ -104,7 +104,7 @@ class PoseDetector:
 
 # Main function (script to test the module)
 def main():
-    cap = cv2.VideoCapture("PoseVideos/bev4.MOV")
+    cap = cv2.VideoCapture("DanceVideos/bev4.MOV")
     p_time = 0
     detector = PoseDetector()
     while True:
