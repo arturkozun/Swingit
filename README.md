@@ -3,7 +3,7 @@ https://www.youtube.com/shorts/JiMGlxaUPyk
 https://www.youtube.com/shorts/WjPSeGnInok
 
 
-Good Movement is an analysis tool for athletes and coaches. It helps to imagine the correct movement of a certain body part, by drawing "in space" a chosen point, among 32 available landmarks, detected by medipipe's pose estimation model. In the video below Novak Djokovic's right wrist has been tracked, so it shows the correct backswing in his forehand. 
+Good Movement is an analysis tool for athletes and coaches. It helps to imagine the correct movement of a certain body part, by drawing "in space" a chosen point, among 32 available landmarks, detected by medipipe's pose estimation model. In this video Novak Djokovic's right wrist has been tracked, so it shows the correct backswing in his forehand. 
 https://www.youtube.com/watch?v=kpv293qdt1g
 
 Source: https://ai.google.dev/edge/mediapipe/solutions/vision/pose_landmarker
